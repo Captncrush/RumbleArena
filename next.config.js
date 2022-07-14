@@ -5,3 +5,4 @@ module.exports = {
     domains: ['gateway.pinata.cloud'],
   },
 }
+
