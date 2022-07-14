@@ -65,3 +65,4 @@ function BlurImage({ image }: { image: Image }) {
     </a>
   )
 }
+
